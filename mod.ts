@@ -1,5 +1,4 @@
 /**
- * @module
  * Calculates the ISO week number for a given date.
  *
  * The ISO week date system is a leap week calendar system that is part of the ISO 8601 date and time standard.
